@@ -1,7 +1,12 @@
 #Readme
 
-## This file repo should be used for creating mockup presentations to send to clients
+***
 
-More details will go here
+###This repo is designed for rapidly producing a mockup design presentation microsite
+
+This template is using [Boilerplate](https://github.com/h5bp/html5-boilerplate) and lines from [Toast css](https://github.com/daneden/Toast).
+
+
+
 
 #### Aaron Williams
