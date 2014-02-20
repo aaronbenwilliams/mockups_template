@@ -1,0 +1,27 @@
+/* Your brand specific styles */
+
+::selection {color:white;background:rgb(88, 37, 80);}
+::-moz-selection {color:white;background:rgb(88, 37, 80);}
+
+body { font-family: 'Open Sans', sans-serif; }
+
+h1 { font-weight: 400; }
+h2 { font-weight: 200; }
+
+a { color: rgb(244, 113, 64); text-decoration: none;}
+a:hover { color: rgb(189, 61, 58); }
+a:active { color: rgb(242, 136, 47); }
+
+ul { list-style: none; padding: 0; line-height: 30px;}
+
+.site-title { margin-top: 40px; margin-bottom: 10px; margin: 40px 0 5px;}
+.site-tagline { margin-top: 0px; }
+
+.label { font-size: 10px; padding: 2px 5px; color: white; border-radius: 3px; margin-left: 10px; font-weight: 600; }
+.approved { background: rgb(92, 184, 92); }
+.pending { background: rgb(240, 173, 78); }
+.rejected { background: rgb(217, 83, 79); }
+
+.mockup-container { text-align: center; }
+
+footer { font-size: 12px; }
