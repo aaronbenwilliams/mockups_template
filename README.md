@@ -1,6 +1,6 @@
 #Readme
 
-***
+
 
 ###This repo is designed for rapidly producing a mockup design presentation microsite
 
@@ -9,4 +9,4 @@ This template is using [Boilerplate](https://github.com/h5bp/html5-boilerplate) 
 
 
 
-#### Aaron Williams
+
